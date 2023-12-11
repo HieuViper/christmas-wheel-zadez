@@ -1,0 +1,155 @@
+[
+  {
+    "option": "Phần quà số 1",
+    "image": {
+      "uri": "../public/01.png",
+      "offsetY": 200,
+      "sizeMultiplier": 0.7
+    },
+    "description": "You've been on Santa's nice list this year! Here's a special express delivery for you from the North Pole. Merry Christmas and Happy Holidays! Love, Santa"
+  },
+  {
+    "option": "Phần quà số 2",
+    "image": {
+      "uri": "../public/02.png",
+      "offsetY": 200,
+      "sizeMultiplier": 0.7
+    },
+    "description": "How nice it would be if Santa and his reindeers could bring you here on his sleigh. Merry Christmas!"
+  },
+  {
+    "option": "Phần quà số 3",
+    "image": {
+      "uri": "../public/03.png",
+      "offsetY": 200,
+      "sizeMultiplier": 0.7
+    },
+    "description": "Since Santa only comes down through chimneys, and you don't have a chimney, I guess he can't give you any presents this year. He'll try again next year! Merry Christmas!"
+  },
+  {
+    "option": "Phần quà số 4",
+    "image": {
+      "uri": "../public/04.png",
+      "offsetY": 200,
+      "sizeMultiplier": 0.7
+    },
+    "description": "Ho ho ho! Merry Christmas! Santa's bringing you cake this year! Remember to leave him some milk and cookies"
+  },
+  {
+    "option": "Phần quà số 5",
+    "image": {
+      "uri": "../public/05.png",
+      "offsetY": 200,
+      "sizeMultiplier": 0.7
+    },
+    "description": "Merry Christmas! What a bright time, it’s the right time, to have some Christmas cake. Jingle bell time, it’s a swell time, to forget about that Christmas weight!"
+  },
+  {
+    "option": "Phần quà số 6",
+    "image": {
+      "uri": "../public/06.png",
+      "offsetY": 200,
+      "sizeMultiplier": 0.7
+    },
+    "description": "Merry Christmas and Happy New Year! If you're nice all year long, maybe Santa will be back next year with an even better present!"
+  },
+  {
+    "option": "Phần quà số 7",
+    "image": {
+      "uri": "../public/07.png",
+      "offsetY": 200,
+      "sizeMultiplier": 0.7
+    },
+    "description": "A little birdie told me that I was the first thing on your wishlist. Here I am! Merry Christmas!"
+  },
+  {
+    "option": "Phần quà số 8",
+    "image": {
+      "uri": "../public/08.png",
+      "offsetY": 200,
+      "sizeMultiplier": 0.7
+    },
+    "description": "Merry Christmas! I thought long and hard about your gift that now it's too late to get it! Here's the next best thing!"
+  },
+  {
+    "option": "Phần quà số 9",
+    "image": {
+      "uri": "../public/09.png",
+      "offsetY": 200,
+      "sizeMultiplier": 0.7
+    },
+    "description": "Tis the season to be jolly! Here's some cake because cake makes everyone happy! Merry Christmas!"
+  },
+  {
+    "option": "Phần quà số 10",
+    "image": {
+      "uri": "../public/10.png",
+      "offsetY": 200,
+      "sizeMultiplier": 0.7
+    },
+    "description": "Merry Christmas! Let's dance and prance by the Christmas tree to the jingle bell rock!"
+  },
+  {
+    "option": "Phần quà số 11",
+    "image": {
+      "uri": "../public/11.png",
+      "offsetY": 200,
+      "sizeMultiplier": 0.7
+    },
+    "description": "The best gift this Christmas, and every other Christmas, is the joy of family. May you be surrounded with all your loved ones and may all your hearts be light and happy!"
+  },
+  {
+    "option": "Phần quà số 12",
+    "image": {
+      "uri": "../public/12.png",
+      "offsetY": 200,
+      "sizeMultiplier": 0.7
+    },
+    "description": "The little joys of Christmas - to sit by the Christmas tree, under the cozy Christmas lights, as the sweet melodies of Christmas sing to us Fa la la la la. Merry Christmas!"
+  },
+  {
+    "option": "Phần quà số 13",
+    "image": {
+      "uri": "../public/13.png",
+      "offsetY": 200,
+      "sizeMultiplier": 0.7
+    },
+    "description": "May your days be merry and bright, and may your faces be all smiles! Merry Christmas!"
+  },
+  {
+    "option": "Phần quà số 414",
+    "image": {
+      "uri": "../public/14.png",
+      "offsetY": 200,
+      "sizeMultiplier": 0.7
+    },
+    "description": "It's another Christmas spent without you, but I'm sending you all my love and light. Christmas is in the air, and I'm always with you. Merry Christmas!"
+  },
+  {
+    "option": "Phần quà số 15",
+    "image": {
+      "uri": "../public/15.png",
+      "offsetY": 200,
+      "sizeMultiplier": 0.7
+    },
+    "description": "May your Christmas star light up so bright and know that all will be alright. Sending you lots of love this Christmas! Merry Christmas!"
+  },
+  {
+    "option": "Phần quà số 16",
+    "image": {
+      "uri": "../public/16.png",
+      "offsetY": 200,
+      "sizeMultiplier": 0.7
+    },
+    "description": "Merry Christmas! May the gift of love, peace, and joy be upon you and your family this Christmas."
+  },
+  {
+    "option": "Phần quà số 17",
+    "image": {
+      "uri": "../public/17.png",
+      "offsetY": 200,
+      "sizeMultiplier": 0.7
+    },
+    "description": "May the brightest stars in the sky guide you and rejoice you with love and joy this Christmas. Merry Christmas!"
+  }
+]

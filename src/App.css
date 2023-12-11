@@ -1,0 +1,11 @@
+.parent-container {
+  width: 600px;
+  height: 600px;
+
+  > div {
+    height: 100%;
+    width: 100%;
+    max-height: unset;
+    max-width: unset;
+  }
+}
